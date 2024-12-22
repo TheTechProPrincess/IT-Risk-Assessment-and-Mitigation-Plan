@@ -1,1 +1,14 @@
+# Mitigation Strategies
 
+## Data Breach
+- Install strong firewalls.
+- Use encrypted communication channels.
+- Set up multi-factor authentication for sensitive systems.
+
+## System Downtime
+- Regular backups of critical data.
+- Deploy backup servers and ensure 24/7 monitoring.
+
+## Malware
+- Regular system updates and security patches.
+- Use antivirus software across all systems.
