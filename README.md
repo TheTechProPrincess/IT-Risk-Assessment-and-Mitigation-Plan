@@ -9,3 +9,11 @@ This project contains an assessment of potential risks to an organization's IT i
 ## How to Use
 - Review the risk assessments to understand potential threats.
 - Follow the mitigation strategies to ensure the security and stability of systems.
+  
+## Key Features:
+- A list of IT risks and their possible impacts.
+- Strategies to reduce risks, like secure passwords and firewalls.
+- Organized documentation for easy understanding.
+
+## Why It Matters:
+Understanding risks helps businesses prevent security issues and keep their systems running smoothly.
