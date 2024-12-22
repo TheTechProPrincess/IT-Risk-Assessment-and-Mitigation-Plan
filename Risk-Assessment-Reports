@@ -1,1 +1,22 @@
+# IT Risk Assessment
 
+## Identified Risks
+- Data Breach: Hackers accessing sensitive data.
+- System Downtime: Server crashes or network failure.
+- Malware: Malicious software infecting company systems.
+
+## Risk Evaluation
+- Data Breach:
+  - Impact: High
+  - Probability: Medium
+- System Downtime:
+  - Impact: Medium
+  - Probability: High
+- Malware:
+  - Impact: High
+  - Probability: Medium
+
+## Mitigation Strategies
+- Data Breach: Use firewalls, strong encryption, and multi-factor authentication.
+- System Downtime: Implement regular backups and a disaster recovery plan.
+- Malware: Install antivirus software and ensure regular updates to all systems.
